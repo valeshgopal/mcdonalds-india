@@ -1196,10 +1196,10 @@ body {
 
 .author a {
   text-decoration: none;
-  color: #b69a81;
+  color: #db0007;
   transition: all 0.3s ease;
 }
 
 .author a:hover {
-  color: #db0007;
+  border-bottom: 1px solid #db0007;
 }
