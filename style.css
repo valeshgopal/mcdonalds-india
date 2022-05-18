@@ -919,7 +919,7 @@ body {
 
 /* SECTION-7 */
 .section--7 {
-  height: 87vh;
+  height: 100vh;
   display: flex;
 }
 
@@ -1024,13 +1024,13 @@ body {
 .offers {
   position: relative;
   height: 100vh;
-  margin-bottom: 20px;
+  margin-bottom: 120px;
 }
 
 .offers-content {
   background: url("img/yellowbg.png");
   padding: 75px 65px;
-  height: 95vh;
+  height: 115vh;
 }
 
 .offers-content h2 {
@@ -1110,8 +1110,8 @@ body {
 
 .footer-img {
   position: absolute;
-  right: 4%;
-  bottom: 10%;
+  left: 42%;
+  top: 20%;
   transform: scale(0.9);
 }
 
