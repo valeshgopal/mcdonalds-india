@@ -1024,13 +1024,14 @@ body {
 .offers {
   position: relative;
   height: 100vh;
-  margin-bottom: 120px;
+  margin-bottom: 60px;
 }
 
 .offers-content {
   background: url("img/yellowbg.png");
   padding: 75px 65px;
-  height: 115vh;
+  height: 110vh;
+  background-repeat: no-repeat;
 }
 
 .offers-content h2 {
